@@ -22,19 +22,6 @@
 
 ---
 
-## Signal
-
-I build modern web products with `React` and `Node.js`, and I am increasingly focused on AI-native applications, engineering leverage, and product execution.
-
-I like turning unclear ideas into shipped systems and keeping calm, steady execution in fast-changing environments.
-
-<div align="center">
-  <img height="174" src="https://github-readme-stats.vercel.app/api?username=anlici&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&custom_title=Anlici's%20GitHub%20Signal" alt="GitHub Stats" />
-  <img height="174" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anlici&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=Language%20Map" alt="Top Languages" />
-</div>
-
----
-
 ## Experience Timeline
 
 **Meituan Intern**  
@@ -63,10 +50,6 @@ May 2025 - Present
 - Exploring AI product workflows and agent engineering
 - Growing from intern projects into long-term engineering ownership
 
-<div align="center">
-  <img width="700" src="https://streak-stats.demolab.com?user=anlici&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
 ---
 
 ## Activity
@@ -77,10 +60,6 @@ May 2025 - Present
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anlici/anlici/output/github-contribution-grid-snake.svg" />
     <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/anlici/anlici/output/github-contribution-grid-snake.svg" />
   </picture>
-</div>
-
-<div align="center">
-  <img width="720" src="https://github-readme-activity-graph.vercel.app/graph?username=anlici&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
 </div>
 
 ---
