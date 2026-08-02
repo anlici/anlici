@@ -1,8 +1,5 @@
 <div align="center">
-
-# Anlici
-
-### Frontend Engineer · React · Node.js · Building for the AI Era
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=860&lines=I am Anlici;React+%2B+Node.js+Builder;AI+Product+Explorer;Turning+ideas+into+delivered+products" alt="Typing SVG" />
 
 <p>
   <em>Finding certainty in uncertain times.</em>
@@ -15,30 +12,12 @@
   <a href="https://juejin.cn/user/411646676176554/posts">
     <img src="https://img.shields.io/badge/Juejin-Articles-1E80FF?style=for-the-badge&logo=bytedance&logoColor=white" alt="Juejin" />
   </a>
-</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=860&lines=Frontend+Engineer;React+%2B+Node.js+Builder;AI+Product+Explorer;Turning+ideas+into+delivered+products" alt="Typing SVG" />
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=anlici&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
 </div>
+  - [掘金](https://juejin.cn/user/411646676176554/posts)
 
----
-
-## Brand Snapshot
-
-I build modern web products with `React` and `Node.js`, and I am increasingly focused on AI-native applications, engineering leverage, and product execution.
-
-I like turning unclear ideas into shipped systems and keeping calm, steady execution in fast-changing environments.
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=anlici&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anlici&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
----
 
 ## Experience Timeline
 
@@ -65,8 +44,6 @@ May 2025 - Present
 
 ## What I'm Focused On
 
-- Building polished frontend experiences with `React`
-- Expanding backend depth with `Node.js`
 - Exploring AI product workflows and agent engineering
 - Growing from intern projects into long-term engineering ownership
 
@@ -90,8 +67,3 @@ May 2025 - Present
   </picture>
 </div>
 
----
-
-## Writing & Presence
-
-- [Juejin Posts](https://juejin.cn/user/411646676176554/posts)
