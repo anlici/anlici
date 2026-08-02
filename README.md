@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=860&lines=I+am+Anlici;React+%2B+Node.js+Builder;AI+Product+Explorer;Turning+ideas+into+delivered+products" alt="Typing SVG" />
 
 <p>
-  <em>Finding certainty in uncertain times.</em>
+  <em>Exploring AI product workflows and agent engineering</em>
 </p>
 
 <p>
@@ -43,14 +43,6 @@ May 2025 - Present
   <img src="https://skillicons.dev/icons?i=react,nodejs,ts,js,nextjs,vite,tailwind,nestjs,html,css,git,docker,redis,mysql&perline=7" alt="Tech Stack" />
 </div>
 
----
-
-## What I'm Focused On
-
-- Exploring AI product workflows and agent engineering
-- Growing from intern projects into long-term engineering ownership
-
----
 
 ## Activity
 
@@ -61,12 +53,6 @@ May 2025 - Present
     <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/anlici/anlici/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
-
----
-
-## Writing & Presence
-
-- [Juejin Posts](https://juejin.cn/user/411646676176554/posts)
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:22C55E,55:2563EB,100:111827" alt="Footer wave" />
