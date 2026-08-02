@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Anlici 👋
+# Anlici
 
 ### Frontend Engineer · React · Node.js · Building for the AI Era
 
@@ -17,23 +17,34 @@
   </a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=780&lines=React+Engineer;Node.js+Builder;AI+Product+Explorer;Turning+ideas+into+delivered+products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=860&lines=Frontend+Engineer;React+%2B+Node.js+Builder;AI+Product+Explorer;Turning+ideas+into+delivered+products" alt="Typing SVG" />
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=anlici&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
 
 </div>
 
 ---
 
-## About Me
+## Brand Snapshot
 
-I focus on building modern web products with `React` and `Node.js`, with growing interest in AI-native applications, engineering efficiency, and product execution.
+I build modern web products with `React` and `Node.js`, and I am increasingly focused on AI-native applications, engineering leverage, and product execution.
 
-I enjoy shaping ideas into real, usable systems and keeping a steady pace in fast-changing environments.
+I like turning unclear ideas into shipped systems and keeping calm, steady execution in fast-changing environments.
 
-## Experience
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=anlici&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anlici&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+---
+
+## Experience Timeline
 
 **Meituan Intern**  
 Jul 2024 - Sep 2024  
-Merchant Campaigns, Catering Business
+Merchant Campaigns · Catering Business
 
 **ByteDance Intern**  
 Oct 2024 - Apr 2025  
@@ -41,6 +52,8 @@ Wukong Browser
 
 **ByteDance Intern**  
 May 2025 - Present
+
+---
 
 ## Tech Stack
 
@@ -50,12 +63,12 @@ May 2025 - Present
 
 ---
 
-## Featured Profile
+## What I'm Focused On
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=anlici&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anlici&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
+- Building polished frontend experiences with `React`
+- Expanding backend depth with `Node.js`
+- Exploring AI product workflows and agent engineering
+- Growing from intern projects into long-term engineering ownership
 
 <div align="center">
   <img width="700" src="https://streak-stats.demolab.com?user=anlici&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -79,17 +92,6 @@ May 2025 - Present
 
 ---
 
-## Current Focus
-
-- Building polished frontend experiences with `React`
-- Expanding backend capability with `Node.js`
-- Exploring AI product workflows and agent engineering
-- Growing from intern projects into long-term engineering ownership
-
-## Writing
+## Writing & Presence
 
 - [Juejin Posts](https://juejin.cn/user/411646676176554/posts)
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=anlici&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</div>
